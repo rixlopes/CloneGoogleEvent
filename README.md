@@ -1,2 +1,2 @@
-# CloneGoogleEvent
-Adding google event using cloned java script 
+# Eventcreator
+Adding google event
